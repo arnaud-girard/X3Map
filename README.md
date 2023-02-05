@@ -1,16 +1,6 @@
 # X3Map
 This map is a little project that I did to help developpers who might need this.
 <br>
-The best exemple is if you want to create an inventory system were you have three values.
-<br><li>
-The slot the item is in
-<br><li>
-The name of the item **/** the item object
-<br><li>
-The quantity of said object you have
-<br><br>
-The X3Map functions as follows : 
-<br>
 You have a **key** and a index for each set of values.
 <br>
 You then have two value:
