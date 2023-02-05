@@ -1,7 +1,7 @@
 # X3Map
 This map is a little project that I did to help developpers who might need this.
 <br>
-You have a **key** and a index for each set of values.
+You have a **key** and a **index** for each set of values.
 <br>
 You then have two value:
 <br><li>
