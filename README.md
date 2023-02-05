@@ -1,5 +1,6 @@
 # X3Map
-This map is a little project that I did to help developpers who might need this the best exemple is to create an inventory system were you have three values.
+This map is a little project that I did to help developpers who might need this.
+The best exemple is if you want to create an inventory system were you have three values.
 <br><li>
 The slot the item is in
 <br><li>
