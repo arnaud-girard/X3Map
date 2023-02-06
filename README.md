@@ -11,14 +11,6 @@ The **extended value** which is optional
 <br><br>
 <details><summary>How the functions() work:</summary>
 <br>
-<details><summary>The <code>set</code> function</summary>
-<p>
-<br>
-To set the <b>values</b> the program will ask you for the <b>key</b>, the <b>defaultValue</b> and the <b>extendedValue</b> (optional)
-<br><br>
-It will then add them to their respective ArrayLists.
-</p>
-</details>
 
 <details><summary>The <code>get</code> function</summary>
 <p>
@@ -32,6 +24,16 @@ If you give it the <b>index</b> it will go to the next step automaticly.
 With the <b>index</b> it will go through the two ArrayLists of the <b>values</b> and find the <b>values</b> located in said <b>index</b>.
 </p>
 </details>
+
+<details><summary>The <code>set</code> function</summary>
+<p>
+<br>
+To set the <b>values</b> the program will ask you for the <b>key</b>, the <b>defaultValue</b> and the <b>extendedValue</b> (optional)
+<br><br>
+It will then add them to their respective ArrayLists.
+</p>
+</details>
+
 <details><summary>The <code>rem</code> function</summary>
 <p>
 <br>
@@ -40,6 +42,7 @@ To remove a <b>set</b> from the <b>map</b>.
 It will use the ArrayList function .remove() on each ArrayLists.
 </p>
 </details>
+
 <details><summary>The <code>mov</code> function</summary>
 <p>
 <br>
@@ -48,6 +51,7 @@ To move the <b>set</b> to another <b>index</b>.
 It will add the <b>set</b> to another <b>index</b> and delete the <b>set</b> in the old one.
 </p>
 </details>
+
 <details><summary>The <code>ind</code> function</summary>
 <p>
 <br>
@@ -56,6 +60,7 @@ To retrieve the <b>index</b> of a <b>set</b>.
 It will use the ArrayList function .indexOf() to get the <b>index</b> of said <b>set</b>.
 </p>
 </details>
+
 <details><summary>The <code>cls</code> function</summary>
 <p>
 <br>
@@ -64,6 +69,5 @@ To clear the <b>map</b>.
 It sets all ArrayLists to null.
 </p>
 </details>
-
 
 </details>
