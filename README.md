@@ -13,7 +13,7 @@ The **extended value** which is optional
 <details><summary>The set function</summary>
 <p>
 <br>
-To set the values the program will ask you for the <b>key</b>, the <b>defaultValue</b> and the <b>extendedValue</b>
+To set the values the program will ask you for the <b>key</b>, the <b>defaultValue</b> and the <b>extendedValue</b> (optional)
 <br><br>
 It will then add them to their respective ArrayLists.
 </p>
