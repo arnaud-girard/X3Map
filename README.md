@@ -20,7 +20,7 @@ It will then add them to their respective ArrayLists.
 </p>
 </details>
 
-<details><summary>The <code>ge</code>t function</summary>
+<details><summary>The <code>get</code> function</summary>
 <p>
 <br>
 To get the <b>values</b> the program asks you for the <b>key</b> or the <b>index</b>:
