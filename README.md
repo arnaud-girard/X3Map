@@ -3,7 +3,7 @@ This map is a little project that I did to help developpers who might need this.
 <br>
 You have a **key** and a **index** for each **set** of **values**.
 <br>
-You then have two value:
+You then have two **values**:
 <br><li>
 The **default value** which is necessary
 <br><li>
