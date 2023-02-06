@@ -19,7 +19,7 @@ public class X3Map<A,B,C> {
 
     /**
      * Gets the two values of a set by using its <b>index</b>
-     * @param key
+     * @param index
      * @return <b>SimpleEntry</b>&lt;{@code defaultValue}, {@code extendedValue}&gt;
      */
     public Entry<B,C> get(int index){

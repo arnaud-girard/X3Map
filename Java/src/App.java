@@ -5,6 +5,6 @@ public class App {
         map.set("allo", 1, "map");
         map.set("args", 2);
         map.set("all", 3, "a");
-        System.out.println(map.get("allo") + " " + map.get(1) + " " + map.get("all"));
+        System.out.println(map.get("allo").getKey() + " " + map.get(1).getValue() + " " + map.get("all"));
     }
 }
