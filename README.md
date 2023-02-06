@@ -10,6 +10,7 @@ The **default value** which is necessary
 The **extended value** which is optional
 <br><br>
 <details><summary>How the functions() work:</summary>
+<br>
 <details><summary>The set function</summary>
 <p>
 <br>
